@@ -35,12 +35,12 @@
 - 🧠 [Multi-agent system modelation](https://github.com/tamagochi-descompuesto/CrossRoadMultiAgentSystem) _(October 2021 - December 2021)_:  
   I worked with **IBM** using **IBM Cloud** from to model and develop a multi-agent system to model a crossroad and how the cars are suposed to cross in order to have a quick transit flow. This was my first approach to AI and its different models, I modeled and coded the decisions and behaviors of the agents that conformed the system. In the repository linked in the title of this section you can find the model and implementation described with more detail _(english translation is in progress)_.  
   
-    ![multiagent_crossroad](https://user-images.githubusercontent.com/58601226/174714736-34eb0f6d-5880-4f2c-9463-f4d0699135e3.PNG) 
-    - _**Multi agent crossroad graphic overview.**_  
+    ![multiagent_crossroad](https://user-images.githubusercontent.com/58601226/174714736-34eb0f6d-5880-4f2c-9463-f4d0699135e3.PNG)  
+    - _**Multi agent crossroad graphic overview.**_    
+    
     
     https://user-images.githubusercontent.com/58601226/174714773-8dbfbeb4-df94-4378-9c64-fed8f9920a06.mp4  
-    
-    - _**Multi agnet crossroad video demonstration.**_  
+    - _**Multi agent crossroad video demonstration.**_  
 
     During this project I worked again with cloud computing, modeled the system and server with Python and made a graphic representation of the crossroad using Unity.  
 
